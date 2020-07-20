@@ -1,2 +1,10 @@
 # eslint-config
-Eslint config used by the Luvella dev team.
+🌟 Luvella's ESLint config for clean and stylish code.
+
+# Usage
+In your `.eslintrc.json` add:
+```json
+{
+	"extends": "@luvella"
+}
+```

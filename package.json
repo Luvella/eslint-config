@@ -1,7 +1,7 @@
 {
   "name": "@luvella/eslint-config",
   "version": "1.0.0",
-  "description": "Eslint config used by the Luvella dev team.",
+  "description": "Luvella's ESLint config for clean and stylish code.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Luvella/eslint-config/issues"
   },
-  "homepage": "https://github.com/Luvella/eslint-config#readme"
+  "homepage": "https://github.com/Luvella/eslint-config#readme",
+  "devDependencies": {
+    "eslint": "7.5.0"
+  }
 }
