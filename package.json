@@ -1,6 +1,6 @@
 {
   "name": "@luvella/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Luvella's ESLint config for clean and stylish code.",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "url": "https://github.com/Luvella/eslint-config/issues"
   },
   "homepage": "https://github.com/Luvella/eslint-config#readme",
-  "devDependencies": {
+  "peerDependencies": {
     "eslint": "^7.5.0"
   }
 }
