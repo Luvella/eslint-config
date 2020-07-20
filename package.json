@@ -1,6 +1,6 @@
 {
   "name": "@luvella/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Luvella's ESLint config for clean and stylish code.",
   "main": "index.js",
   "scripts": {
