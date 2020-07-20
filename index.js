@@ -1,6 +1,6 @@
 module.exports = {
 	rules: {
-		'block-spacing': 'error'
+		'block-spacing': 'error',
 		'brace-style': ['error', '1tbs', { 'allowSingleLine': true }],
 		'camelcase': 'error',
 		'capitalized-comments': ['error', 'always', { 'ignoreInlineComments': true, 'ignoreConsecutiveComments': true }],
