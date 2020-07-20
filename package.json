@@ -1,0 +1,23 @@
+{
+  "name": "@luvella/eslint-config",
+  "version": "1.0.0",
+  "description": "Eslint config used by the Luvella dev team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luvella/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "Luvella",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luvella/eslint-config/issues"
+  },
+  "homepage": "https://github.com/Luvella/eslint-config#readme"
+}
