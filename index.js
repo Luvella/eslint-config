@@ -1,7 +1,8 @@
 module.exports = {
 	env: {
+		node: true,
 		es6: true,
-		node: true
+		es2017: true
 	},
 	rules: {
 		'block-spacing': 'error',

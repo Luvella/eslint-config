@@ -1,7 +1,9 @@
 # eslint-config
-🌟 Luvella's ESLint config for clean and stylish code.
+> 🌟 Luvella's ESLint config for clean and stylish code.
 
-# Usage
+# Install & Usage
+`npm install @luvella/eslint-config` 
+
 In your `.eslintrc.json` add:
 ```json
 {
